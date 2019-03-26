@@ -21,3 +21,5 @@ Homestead.json
 
 .phpunit.result.cache
 yarn-error.log
+
+.vscode/
