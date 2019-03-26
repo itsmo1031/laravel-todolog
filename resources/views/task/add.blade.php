@@ -1,0 +1,1 @@
+<a href="{{ route('task.add') }}">할일 등록</a>
