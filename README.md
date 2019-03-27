@@ -1,2 +1,3 @@
-# laravel-tutorial
-Laravel Etude of myself
+# Laravel Todolog Tutorial
+
+Laravel Tutorial
